@@ -2,7 +2,7 @@
 Various resources for gta 5.
 
 ## Kek's Object Mapper
-> Contains an extended list of objects.
+> Contains an extended list of objects. [around 80k additional objects]
 
 > It has objects that are only streamable in certain areas of gta 5.
 
